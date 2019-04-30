@@ -1,2 +1,2 @@
-# articlebuilder-in-laravel
-Service Provider for ArticleBuilder.net APIs
+# Articlebuilder.Net Laravel
+#### Service Provider for ArticleBuilder.net APIs
